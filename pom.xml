@@ -272,6 +272,7 @@
   </profiles>
 
   <properties>
+    <os.detected.classifier>windows-x86_64</os.detected.classifier>
     <maven.compiler.source>1.6</maven.compiler.source>
     <maven.compiler.target>1.6</maven.compiler.target>
     <netty.dev.tools.directory>${project.build.directory}/dev-tools</netty.dev.tools.directory>
